@@ -1,0 +1,19 @@
+\header {
+  title = "Blue Light Yokohama"
+  composer = "Composer"
+}
+
+\score {
+  \relative c'
+  {
+    \tempo 4. = 100
+    r8 c' c b 
+    b a a e4 
+    d8 d e f 
+    e d f e
+    a a a( a2)
+    aes4 aes8 a
+  }
+  \layout {}
+  \midi {}
+}
