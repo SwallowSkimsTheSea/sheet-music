@@ -7,7 +7,7 @@
 
 \score {
   \relative c' {
-    c4 e g a b
+    c8 d f a d g e c
   }
 
   \layout {}
